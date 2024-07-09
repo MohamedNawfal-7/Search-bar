@@ -1,0 +1,12 @@
+.search{
+    margin: 250px auto;
+    display: flex;
+    width: 250px;
+    
+}
+.search input{
+    width: 200px;
+    padding: 10px;
+    padding-left: 300px;
+    
+}
